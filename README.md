@@ -1,4 +1,4 @@
-Um aplicativo ReactJS que mostra as ultimas estatisticas da COVID-19.
+Um aplicativo ReactJS simples que mostra as ultimas estatisticas da COVID-19.
 
 ## Installation
 - git clone https://github.com/sambreen27/covid19.git
