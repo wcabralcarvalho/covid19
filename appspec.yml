@@ -4,4 +4,4 @@ hooks:
   AfterInstall:
     - location: scripts/stop-container.sh
   ApplicationStart:
-    - location: ccripts/start-container.sh
+    - location: scripts/start-container.sh
